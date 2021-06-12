@@ -1,0 +1,37 @@
+.imageminicial {
+    height: 350px;
+    width: 100%;
+}
+
+.textoinicial {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 100px;
+}
+
+.round {
+    background-color: transparent;
+}
+
+.publ {
+    box-shadow: 1px 1px 10px black;
+}
+
+.nav {
+    position: absolute;
+    margin-left: 900px;
+}
+
+.cartao {
+    margin-top: -100px;
+}
+
+.mgt {
+    margin-left: -15px;
+}
+
+.rotate {
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 300px;
+}
